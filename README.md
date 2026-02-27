@@ -1,6 +1,6 @@
 # Sistema de Servicios Empresariales — Prototipo Funcional
 
-**Asignatura:** Desarrollo Web Full Stack  
+**Asignatura:** Desarrollo de Sotware Empresarial  
 **Institución:** Universidad Don Bosco  
 **Entrega:** Desafío 1 — Parte 2
 
@@ -8,7 +8,7 @@
 
 ## Equipo de Desarrollo
 
-| Nombre | Carné |
+| Nombre | Carnét |
 |--------|-------|
 | Reyes Jonathan Rafael | SR232918 |
 | Zelaya Ramírez Jordán Ismael | ZR170168 |
