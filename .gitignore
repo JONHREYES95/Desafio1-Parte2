@@ -1,0 +1,14 @@
+# Archivo de base de datos generado en tiempo de ejecución
+empresa.db
+
+# Entorno virtual de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variables de entorno
+.env
+.env.local
